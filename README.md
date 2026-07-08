@@ -4,8 +4,8 @@ Sou estudante da área de Qualidade de Software (QA) e apaixonado por tecnologia
 
 ## 💻 Metas de Tech
 
-- Aprender Automação de Testes com Cypress
-- Aprimorar meus conhecimentos em JavaScript
+- Aprender Automação de Testes com IA
+- Aprimorar meus conhecimentos em Selenium e Cypress
 - Dominar Git e GitHub
 
 ## 🚀 Foco Atual
